@@ -1,6 +1,19 @@
 {
-    "name": "material-dayjs-adapter",
+    "name": "@tautf/material-dayjs-adapter",
     "version": "14.0.0",
+    "author": {
+        "name": "Florian Taut",
+        "email": "florian@tautf.de",
+        "url": "https://tautf.de"
+    },
+    "license": "MIT",
+    "description": "DateAdapter for Dayjs to be used in Angular Material",
+    "repository": {
+        "url": "https://github.com/tautf/material-dayjs-adapter"
+    },
+    "bugs": {
+        "url": "https://github.com/tautf/material-dayjs-adapter/issues"
+    },
     "scripts": {
         "ng": "ng",
         "start": "ng serve",
