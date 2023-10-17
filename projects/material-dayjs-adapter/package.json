@@ -1,0 +1,13 @@
+{
+    "name": "material-dayjs-adapter",
+    "version": "14.0.0",
+    "peerDependencies": {
+        "@angular/common": "^14.0.0",
+        "@angular/core": "^14.0.0",
+        "@angular/material": "^14.0.0",
+        "dayjs": "^1.11.10"
+    },
+    "dependencies": {
+        "tslib": "^2.3.0"
+    }
+}
